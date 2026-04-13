@@ -1,4 +1,4 @@
-# A-B_testing_for_checkout_optimization
+# A/B_testing_for_checkout_optimization
 ## Problem Statement
 - This project checks the statistical significance of the newly created checkout page and its effect on conversion rate by performing A/B testing in Python.
 
